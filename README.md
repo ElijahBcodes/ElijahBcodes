@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElijahBcodes
 - 👀 I am learning Web Development and looking for others to collaborate on open source projects. 
 - 🌱 I’m currently learning html, css,and javascript online with tutotial in prep for a coding bootcamp. 
-- 💞️ I have found that it is easy to learn on my own but I would like to find others sharing the journey.
+- 💞️ I have found that learning in groups makes the process more enjoyable. 
 - 📫 How to reach me eli1inthesnow@gmail.com...
 
 <!---
