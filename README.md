@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Web Developer specializing in React and Ruby on Rails applications.</h3>
+<h3 align="center">Software Developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahbcodes&theme=dracula" alt="elijahbcodes" /></a> </p>
 
